@@ -12,6 +12,9 @@ package tugaspbo1;
 public class HelmAksi {
     public static void main(String[] args) {
         
+        Helm AGV=new Helm ();
+        Helm Airoh=new Helm ();
+        Helm Nolan=new Helm ();
     }
     
 }
