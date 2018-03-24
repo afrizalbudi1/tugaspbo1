@@ -15,6 +15,29 @@ public class HelmAksi {
         Helm AGV=new Helm ();
         Helm Airoh=new Helm ();
         Helm Nolan=new Helm ();
+        
+        
+        AGV.merk="AGV Vista Anniversary 70";
+        AGV.jenis="Full Face";
+        AGV.aksesoris="Visor";
+        AGV.ukuran="Large";
+        AGV.harga=" Rp.21.000.000";
+        
+        Airoh.merk="Airoh Twist Rockstar";
+        Airoh.jenis="Motocross";
+        Airoh.aksesoris="Google Glass";
+        Airoh.ukuran="Medium";
+        Airoh.harga=" Rp.3.700.000";
+        
+        Nolan.merk="Nolan N63 Casey Stoner";
+        Nolan.jenis="Full Face";
+        Nolan.aksesoris="Action Camera";
+        Nolan.ukuran="Medium";
+        Nolan.harga=" Rp.2.500.000";
+        
+        
+        
+        
     }
     
 }
