@@ -35,7 +35,9 @@ public class HelmAksi {
         Nolan.ukuran="Medium";
         Nolan.harga=" Rp.2.500.000";
         
-        
+        AGV.cetakinfo();
+        Airoh.cetakinfo();
+        Nolan.cetakinfo();
         
         
     }
